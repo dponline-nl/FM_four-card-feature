@@ -20,8 +20,8 @@ Your users should:
 
 ### Links
 
--   Solution URL: [https://dponline-nl.github.io/FM_four-card-feature/](https://dponline-nl.github.io/FM_four-card-feature/)
--   Live site: [GitHub Pages](https://dponline-nl.github.io/FM_four-card-feature-section/)
+-   Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-html-and-css-only-using-grid-bo_T9QhBp](https://www.frontendmentor.io/solutions/four-card-feature-html-and-css-only-using-grid-bo_T9QhBp)
+-   Live site: [GitHub Pages](https://dponline-nl.github.io/FM_four-card-feature/)
 
 ### Author
 
