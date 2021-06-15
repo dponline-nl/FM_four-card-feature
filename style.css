@@ -148,6 +148,9 @@ footer {
             "footer footer footer";
         gap: 1.5rem;
     }
+    h1 {
+        font-size: 2rem;
+    }
 
     footer {
         grid-area: footer;
